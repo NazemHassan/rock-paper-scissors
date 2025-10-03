@@ -1,2 +1,2 @@
 # rock-paper-scissors
-##My first project
+#My first project
